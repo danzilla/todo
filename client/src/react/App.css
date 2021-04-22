@@ -1,0 +1,23 @@
+
+html body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.ContainerPadding {
+  padding: 35px 25px 25px 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cardStyle {
+  box-shadow: 0 20px 30px rgba(0, 0, 0, .1);
+  border-radius: 2px;
+  transition: 0.5s;
+  padding: 25px 25px 25px 25px;
+  border-right: 15px solid #ececec;
+  background-color: #f6f7f9
+}
+.cardStyle:hover {
+  box-shadow: 0 30px 70px rgba(0, 0, 0, .2);
+}
