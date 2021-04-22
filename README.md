@@ -1,5 +1,7 @@
 # To-DO App
 
+## Clone the Repo
+- `git clone https://github.com/danzilla/todo`
 ## Deploy App
 - `npm install`
 - `npm run start`
