@@ -1,5 +1,12 @@
 # To-DO App
 
+## Library 
+- Frontend - React + Redux + Thunk
+- UI library - Bootstrap
+- Backend - Express
+- Database - MongoDB Atlas
+- Database ORM - Mongoose 
+
 ## Clone the Repo
 - `git clone https://github.com/danzilla/todo`
 ## Deploy App
